@@ -18,3 +18,35 @@ li{
     display: inline-block;
     margin-right: 100px;
 }
+section{
+    width: 1280px;
+    height: 779px;
+    border: 2px solid #306b34;
+    margin: 0px auto;
+    background-color:#306b34 ;
+    padding: 174px 0px 355px 95px;
+}
+div{
+    
+    /* padding: 174px 0px 355px 95px; */
+    display: inline-block;
+    vertical-align: top;
+    width: 307px;
+    height:380px ;  
+}
+ .text1, .text2{
+    margin-left: 89px;
+ }
+ .text1{
+    font-size: 30px;
+    width: 254px;
+    height: 30px;
+ }
+ .text2{
+    margin-top: 103px;
+    color: #f4f4f1;
+    font-style: italic;
+    font-family: 'Playfair Display';
+ }
+
+
