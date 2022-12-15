@@ -28,7 +28,7 @@ section{
 }
 div{
     
-    /* padding: 174px 0px 355px 95px; */
+   
     display: inline-block;
     vertical-align: top;
     width: 307px;
@@ -48,5 +48,50 @@ div{
     font-style: italic;
     font-family: 'Playfair Display';
  }
-
-
+ article{
+    width: 959px;
+    margin: 0px auto;
+    padding: 100px 137px 218px 184px;
+    
+ }
+ .satauri{
+    width: 272px;
+    height: 46px;
+    margin: 0px auto;
+    font-size: 40px;
+    font-style: italic;
+    
+ }
+ .articletext{
+    margin-top: 72px;
+    font-size: 20px;
+    font-family: 'La Belle Aurore';
+ }
+ footer{
+    border: 2px solid green;
+    background-color: #306b34;
+    height: 68px;
+    width: 1280px;
+    margin: 0px auto; 
+    padding: 25px 0px 30px 72px;;
+    
+ }
+ .photo1{
+    display: inline-block;
+    vertical-align: middle;
+    width: 106px;
+    /* margin-bottom: 27px;
+    width: 108px;
+    color: #f4f4f1; */
+    }
+ 
+    .text3{
+    /* width: 265px;
+    height: 21px; */
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 724px;
+    /* margin-left: 724px;
+    color:#f4f4f1 ; */
+    
+ }
